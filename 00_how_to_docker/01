@@ -1,1 +1,1 @@
-docker-machine ip Char
+docker-machine create --driver virtualbox Char
